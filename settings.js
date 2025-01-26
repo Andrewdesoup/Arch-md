@@ -1,8 +1,8 @@
 /* 
 
-   Contact: https://wa.me/2347036214381
+   Contact: https://wa.me/233500850221
    Telegram: https://t.me/Ednut_x    
-   Developer : https://wa.me/2348102487241
+   Developer : https://wa.me/233500850221
   
 */
 
@@ -12,20 +12,20 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
+global.owner = "233500850221"
 global.botname = "αrch md"
-global.ownername = ""
+global.ownername = "Andrew௹"
 global.simbol = "♘"
 global.typeMenu = 'v1' //don't change 
 global.anticall = false // set true to turn anticall always on
 global.prefix = '.' // your desired prefix symbol only
-global.channel = ''
-global.timezone = 'Africa/Lagos'
-global.author = 'Ednut'
+global.channel = 'https://whatsapp.com/channel/0029VapJCy9GJP89oQIREA45'
+global.timezone = 'Africa/Accra'
+global.author = 'Andrew௹'
 global.packname = 'Arch Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
-global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
+global.pairing_code = true // if deploying on panel set true if on any other platform leave it false
 global.startup = true
 
 // Settings Image Url
